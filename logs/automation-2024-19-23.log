@@ -1,0 +1,3 @@
+2024-12-23 12:12:00.034 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - Email & Password entered
+2024-12-23 12:12:00.778 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - Login CTA Clicked
+2024-12-23 12:12:01.238 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - *** Completed TC003_LogintestDDT ***

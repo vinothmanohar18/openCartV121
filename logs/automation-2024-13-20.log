@@ -1,0 +1,4 @@
+2024-12-20 15:12:15.367 [main] DEBUG o.t.TestNG - suiteXmlPath: "C:\Workspace\Java & Selenium CrashCourse\openCartV121\test-output\testng-failed.xml"
+2024-12-20 15:12:15.824 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Workspace\Java & Selenium CrashCourse\openCartV121\test-output\testng-failed.xml
+

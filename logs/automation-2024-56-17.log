@@ -1,0 +1,41 @@
+2024-12-17 10:12:51.519 [main] DEBUG o.t.TestNG - suiteXmlPath: "C:\Users\NMSLAP~1\AppData\Local\Temp\testng-eclipse-744518060\testng-customsuite.xml"
+2024-12-17 10:12:51.823 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-12-17 10:12:51.826 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-12-17 10:12:51.828 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 10:12:51.828 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 10:12:51.828 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 10:12:51.829 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 10:12:51.830 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 10:12:51.830 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 10:12:51.836 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2024-12-17 10:12:51.846 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2024-12-17 10:12:51.847 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 10:12:51.847 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 10:12:51.848 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 10:12:51.848 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 10:12:51.848 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 10:12:51.848 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 10:12:51.850 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 10:12:51.850 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 10:12:51.850 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 10:12:51.850 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 10:12:51.854 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 10:12:51.855 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 10:12:51.855 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 10:12:51.855 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 10:12:51.856 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 10:12:51.857 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 10:12:51.858 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 10:12:51.858 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 10:12:51.858 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 10:12:51.858 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 10:12:51.869 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Users\NMSLAP311\AppData\Local\Temp\testng-eclipse-744518060\testng-customsuite.xml
+
+2024-12-17 10:12:51.888 [main] INFO  o.t.i.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2024-12-17 10:12:52.238 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4b7e96a: 216 ms
+2024-12-17 10:12:52.280 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@13f17eb4: 42 ms
+2024-12-17 10:12:52.302 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@72ea6193: 22 ms
+2024-12-17 10:12:52.320 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@655f7ea: 17 ms
+2024-12-17 10:12:52.340 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6da00fb9: 20 ms
+2024-12-17 10:12:52.341 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@a202ccb: 0 ms

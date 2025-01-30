@@ -1,0 +1,6 @@
+2025-01-07 17:01:13.455 [main] DEBUG o.t.TestNG - suiteXmlPath: "C:\Workspace\Java & Selenium CrashCourse\openCartV121\MasterCase.xml"
+2025-01-07 17:01:13.923 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Workspace\Java & Selenium CrashCourse\openCartV121\MasterCase.xml
+
+2025-01-07 17:01:20.443 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - ***TC001_AccountRegistrationComplete Started***
+2025-01-07 17:01:26.792 [TestNG-tests-1] INFO  t.TC002_LoginTest - *** Started TC002_LoginTest ***

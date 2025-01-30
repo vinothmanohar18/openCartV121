@@ -1,0 +1,24 @@
+2024-12-26 12:12:00.744 [main] INFO  t.TC002_LoginTest - *** Started TC002_LoginTest ***
+2024-12-26 12:12:00.870 [main] INFO  t.TC002_LoginTest - My Account Clicked
+2024-12-26 12:12:02.333 [main] INFO  t.TC002_LoginTest - Selected Login Option
+2024-12-26 12:12:02.578 [main] INFO  t.TC002_LoginTest - Email & Password entered
+2024-12-26 12:12:04.470 [main] INFO  t.TC002_LoginTest - Login CTA Clicked
+2024-12-26 12:12:04.512 [main] INFO  t.TC002_LoginTest - *** Finished TC002_LoginTest ***
+2024-12-26 12:12:30.060 [main] DEBUG o.t.TestNG - suiteXmlPath: "C:\Workspace\Java & Selenium CrashCourse\openCartV121\Grouping.xml"
+2024-12-26 12:12:30.354 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Workspace\Java & Selenium CrashCourse\openCartV121\Grouping.xml
+
+2024-12-26 12:12:36.499 [main] INFO  t.TC001_AccountRegistrationComplete - ***TC001_AccountRegistrationComplete Started***
+2024-12-26 12:12:36.604 [main] INFO  t.TC001_AccountRegistrationComplete - My Account link clicked
+2024-12-26 12:12:37.255 [main] INFO  t.TC001_AccountRegistrationComplete - Registration link clicked
+2024-12-26 12:12:37.263 [main] INFO  t.TC001_AccountRegistrationComplete - Started to enter customer details
+2024-12-26 12:12:39.141 [main] INFO  t.TC001_AccountRegistrationComplete - customer details completed
+2024-12-26 12:12:39.203 [main] ERROR t.TC001_AccountRegistrationComplete - Testcase failed
+2024-12-26 12:12:39.203 [main] DEBUG t.TC001_AccountRegistrationComplete - debug logs
+2024-12-26 12:12:39.203 [main] INFO  t.TC001_AccountRegistrationComplete - Confirmation message verified
+2024-12-26 12:12:46.201 [main] INFO  t.TC002_LoginTest - *** Started TC002_LoginTest ***
+2024-12-26 12:12:46.283 [main] INFO  t.TC002_LoginTest - My Account Clicked
+2024-12-26 12:12:46.692 [main] INFO  t.TC002_LoginTest - Selected Login Option
+2024-12-26 12:12:46.926 [main] INFO  t.TC002_LoginTest - Email & Password entered
+2024-12-26 12:12:47.715 [main] INFO  t.TC002_LoginTest - Login CTA Clicked
+2024-12-26 12:12:47.750 [main] INFO  t.TC002_LoginTest - *** Finished TC002_LoginTest ***

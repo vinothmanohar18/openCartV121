@@ -1,0 +1,15 @@
+2025-01-24 11:01:04.043 [main] DEBUG o.t.TestNG - suiteXmlPath: "C:\Workspace\Java_Selenium_Crash_Course\openCartV121\MasterCase.xml"
+2025-01-24 11:01:09.835 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - ***TC001_AccountRegistrationComplete Started***
+2025-01-24 11:01:09.972 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - My Account link clicked
+2025-01-24 11:01:10.574 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - Registration link clicked
+2025-01-24 11:01:10.578 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - Started to enter customer details
+2025-01-24 11:01:11.633 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - customer details completed
+2025-01-24 11:01:11.670 [TestNG-tests-1] ERROR t.TC001_AccountRegistrationComplete - Testcase failed
+2025-01-24 11:01:11.670 [TestNG-tests-1] DEBUG t.TC001_AccountRegistrationComplete - debug logs
+2025-01-24 11:01:11.671 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - Confirmation message verified
+2025-01-24 11:01:17.060 [TestNG-tests-1] INFO  t.TC002_LoginTest - *** Started TC002_LoginTest ***
+2025-01-24 11:01:17.154 [TestNG-tests-1] INFO  t.TC002_LoginTest - My Account Clicked
+2025-01-24 11:01:17.433 [TestNG-tests-1] INFO  t.TC002_LoginTest - Selected Login Option
+2025-01-24 11:01:17.592 [TestNG-tests-1] INFO  t.TC002_LoginTest - Email & Password entered
+2025-01-24 11:01:18.179 [TestNG-tests-1] INFO  t.TC002_LoginTest - Login CTA Clicked
+2025-01-24 11:01:18.217 [TestNG-tests-1] INFO  t.TC002_LoginTest - *** Finished TC002_LoginTest ***

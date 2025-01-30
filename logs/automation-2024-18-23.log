@@ -1,0 +1,81 @@
+2024-12-23 12:12:00.259 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Workspace\Java & Selenium CrashCourse\openCartV121\MasterCase.xml
+
+2024-12-23 12:12:20.312 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:20.318 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:20.318 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.076 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:21.076 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:21.076 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.113 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:21.113 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:21.113 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.155 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:21.155 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:21.155 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.188 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:21.188 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:21.188 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.220 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:21.220 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:21.220 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.251 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:21.251 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:21.251 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.267 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:21.267 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:21.283 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.299 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:21.299 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:21.299 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.331 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:21.331 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:21.331 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.364 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:21.364 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:21.364 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.396 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:21.396 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:21.396 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.413 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:21.425 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:21.425 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.447 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:21.447 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:21.457 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.480 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:21.480 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:21.480 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.530 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:21.530 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:21.530 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.563 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-23 12:12:21.563 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-23 12:12:21.563 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-23 12:12:21.596 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - *** Started TC003_LogintestDDT ***
+2024-12-23 12:12:21.756 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - My Account Clicked
+2024-12-23 12:12:22.538 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - Selected Login Option
+2024-12-23 12:12:22.952 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - Email & Password entered
+2024-12-23 12:12:24.121 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - Login CTA Clicked
+2024-12-23 12:12:25.338 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - *** Completed TC003_LogintestDDT ***
+2024-12-23 12:12:25.356 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - *** Started TC003_LogintestDDT ***
+2024-12-23 12:12:25.463 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - My Account Clicked
+2024-12-23 12:12:25.722 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - Selected Login Option
+2024-12-23 12:12:26.032 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - Email & Password entered
+2024-12-23 12:12:26.587 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - Login CTA Clicked
+2024-12-23 12:12:36.606 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - *** Completed TC003_LogintestDDT ***
+2024-12-23 12:12:36.622 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - *** Started TC003_LogintestDDT ***
+2024-12-23 12:12:36.766 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - My Account Clicked
+2024-12-23 12:12:37.060 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - Selected Login Option
+2024-12-23 12:12:37.395 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - Email & Password entered
+2024-12-23 12:12:37.855 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - Login CTA Clicked
+2024-12-23 12:12:47.964 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - *** Completed TC003_LogintestDDT ***
+2024-12-23 12:12:47.969 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - *** Started TC003_LogintestDDT ***
+2024-12-23 12:12:48.162 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - My Account Clicked
+2024-12-23 12:12:48.450 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - Selected Login Option
+2024-12-23 12:12:48.782 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - Email & Password entered
+2024-12-23 12:12:49.259 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - Login CTA Clicked
+2024-12-23 12:12:59.312 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - *** Completed TC003_LogintestDDT ***
+2024-12-23 12:12:59.312 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - *** Started TC003_LogintestDDT ***
+2024-12-23 12:12:59.442 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - My Account Clicked
+2024-12-23 12:12:59.755 [TestNG-tests-1] INFO  t.TC003_LogintestDDT - Selected Login Option

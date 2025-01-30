@@ -1,0 +1,4 @@
+2024-12-20 13:12:01.808 [main] DEBUG o.t.TestNG - suiteXmlPath: "C:\Workspace\Java & Selenium CrashCourse\openCartV121\MasterCase.xml"
+2024-12-20 13:12:02.243 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Workspace\Java & Selenium CrashCourse\openCartV121\MasterCase.xml
+

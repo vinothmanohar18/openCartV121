@@ -1,0 +1,12 @@
+2024-12-17 10:12:47.280 [main] DEBUG o.t.TestNG - suiteXmlPath: "C:\Workspace\Java & Selenium CrashCourse\openCartV121\MasterCase.xml"
+2024-12-17 10:12:47.569 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Workspace\Java & Selenium CrashCourse\openCartV121\MasterCase.xml
+
+2024-12-17 10:12:55.463 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - ***TC001_AccountRegistrationComplete Started***
+2024-12-17 10:12:55.596 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - My Account link clicked
+2024-12-17 10:12:58.163 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - Registration link clicked
+2024-12-17 10:12:58.169 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - Started to enter customer details
+2024-12-17 10:12:59.548 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - customer details completed
+2024-12-17 10:12:59.584 [TestNG-tests-1] ERROR t.TC001_AccountRegistrationComplete - Testcase failed
+2024-12-17 10:12:59.584 [TestNG-tests-1] DEBUG t.TC001_AccountRegistrationComplete - debug logs
+2024-12-17 10:12:59.584 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - Confirmation message verified

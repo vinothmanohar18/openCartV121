@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="Info">
+  
+  <!-- Define properties -->
+  <Properties>
+    <Property name="logPath">./logs</Property>
+    
+  </Properties>
+
+  <Appenders>
+    <!-- Console Appender -->
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout>
+        <Pattern>%d{yyyy-mm-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n</Pattern>
+      </PatternLayout>
+    </Console>
+
+    <!-- Rolling File Appender using properties -->
+    <RollingFile name="File" fileName="${logPath}/automation.log" filePattern="${logPath}/automation-%d{yyyy-mm-dd}.log">
+      <PatternLayout>
+        <Pattern>%d{yyyy-MM-dd HH:MM:ss.SSS} [%t] %-5p %c{1.} - %m%n</Pattern>
+      </PatternLayout>
+      <Policies>
+        <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+        <SizeBasedTriggeringPolicy size="50000"/>
+      </Policies>
+    </RollingFile>
+  </Appenders>
+
+  <Loggers>
+    <!-- Root logger references the console and rolling appenders -->
+    <Root level="Debug">
+      
+      <AppenderRef ref="File"/>
+    </Root>
+  </Loggers>
+
+</Configuration>

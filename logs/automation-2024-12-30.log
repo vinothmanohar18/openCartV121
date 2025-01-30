@@ -1,0 +1,8 @@
+2024-12-30 12:12:44.662 [main] DEBUG o.t.TestNG - suiteXmlPath: "C:\Workspace\Java & Selenium CrashCourse\openCartV121\Grouping.xml"
+2024-12-30 12:12:45.140 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Workspace\Java & Selenium CrashCourse\openCartV121\Grouping.xml
+
+2024-12-30 12:12:58.143 [main] INFO  t.TC001_AccountRegistrationComplete - ***TC001_AccountRegistrationComplete Started***
+2024-12-30 12:12:58.320 [main] INFO  t.TC001_AccountRegistrationComplete - My Account link clicked
+2024-12-30 12:12:59.267 [main] INFO  t.TC001_AccountRegistrationComplete - Registration link clicked
+2024-12-30 12:12:59.275 [main] INFO  t.TC001_AccountRegistrationComplete - Started to enter customer details

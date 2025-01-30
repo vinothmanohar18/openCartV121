@@ -1,0 +1,50 @@
+2024-12-17 17:12:14.387 [main] DEBUG o.t.TestNG - suiteXmlPath: "C:\Users\NMSLAP~1\AppData\Local\Temp\testng-eclipse--2094276977\testng-customsuite.xml"
+2024-12-17 17:12:14.764 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 17:12:14.769 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-12-17 17:12:14.771 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 17:12:14.771 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 17:12:14.773 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 17:12:14.773 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 17:12:14.774 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 17:12:14.774 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 17:12:14.781 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2024-12-17 17:12:14.796 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2024-12-17 17:12:14.798 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 17:12:14.799 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 17:12:14.800 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 17:12:14.800 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 17:12:14.800 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 17:12:14.801 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 17:12:14.803 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 17:12:14.803 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 17:12:14.803 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 17:12:14.804 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 17:12:14.808 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 17:12:14.808 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 17:12:14.808 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 17:12:14.808 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 17:12:14.810 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-12-17 17:12:14.810 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 17:12:14.812 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 17:12:14.812 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 17:12:14.813 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-17 17:12:14.813 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-17 17:12:14.823 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Users\NMSLAP311\AppData\Local\Temp\testng-eclipse--2094276977\testng-customsuite.xml
+
+2024-12-17 17:12:14.850 [main] INFO  o.t.i.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2024-12-17 17:12:15.234 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@43aaf813: 206 ms
+2024-12-17 17:12:15.278 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3381b4fc: 42 ms
+2024-12-17 17:12:15.301 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5bd82fed: 23 ms
+2024-12-17 17:12:15.334 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@57459491: 32 ms
+2024-12-17 17:12:15.358 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@62452cc9: 24 ms
+2024-12-17 17:12:15.359 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6941827a: 1 ms
+2024-12-17 17:12:40.482 [main] DEBUG o.t.TestNG - suiteXmlPath: "C:\Workspace\Java & Selenium CrashCourse\openCartV121\MasterCase.xml"
+2024-12-17 17:12:40.853 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Workspace\Java & Selenium CrashCourse\openCartV121\MasterCase.xml
+
+2024-12-17 17:12:46.385 [TestNG-tests-1] INFO  t.TC002_LoginTest - *** Started TC002_LoginTest ***
+2024-12-17 17:12:47.237 [TestNG-tests-1] INFO  t.TC002_LoginTest - My Account Clicked
+2024-12-17 17:12:47.551 [TestNG-tests-1] INFO  t.TC002_LoginTest - Selected Login Option
+2024-12-17 17:12:47.915 [TestNG-tests-1] INFO  t.TC002_LoginTest - Email & Password entered
+2024-12-17 17:12:48.549 [TestNG-tests-1] INFO  t.TC002_LoginTest - Login CTA Clicked

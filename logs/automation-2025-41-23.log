@@ -1,0 +1,14 @@
+2025-01-23 10:01:13.057 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - ***TC001_AccountRegistrationComplete Started***
+2025-01-23 10:01:13.302 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - My Account link clicked
+2025-01-23 10:01:15.739 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - Registration link clicked
+2025-01-23 10:01:15.744 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - Started to enter customer details
+2025-01-23 10:01:18.094 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - customer details completed
+2025-01-23 10:01:18.293 [TestNG-tests-1] ERROR t.TC001_AccountRegistrationComplete - Testcase failed
+2025-01-23 10:01:18.295 [TestNG-tests-1] DEBUG t.TC001_AccountRegistrationComplete - debug logs
+2025-01-23 10:01:18.295 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationComplete - Confirmation message verified
+2025-01-23 10:01:25.120 [TestNG-tests-1] INFO  t.TC002_LoginTest - *** Started TC002_LoginTest ***
+2025-01-23 10:01:25.246 [TestNG-tests-1] INFO  t.TC002_LoginTest - My Account Clicked
+2025-01-23 10:01:25.876 [TestNG-tests-1] INFO  t.TC002_LoginTest - Selected Login Option
+2025-01-23 10:01:26.220 [TestNG-tests-1] INFO  t.TC002_LoginTest - Email & Password entered
+2025-01-23 10:01:27.853 [TestNG-tests-1] INFO  t.TC002_LoginTest - Login CTA Clicked
+2025-01-23 10:01:27.949 [TestNG-tests-1] INFO  t.TC002_LoginTest - *** Finished TC002_LoginTest ***

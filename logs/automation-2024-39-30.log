@@ -1,0 +1,9 @@
+2024-12-30 15:12:00.353 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Workspace\Java & Selenium CrashCourse\openCartV121\test-output\testng-failed.xml
+
+2024-12-30 15:12:30.084 [main] INFO  t.TC002_LoginTest - *** Started TC002_LoginTest ***
+2024-12-30 15:12:30.273 [main] INFO  t.TC002_LoginTest - My Account Clicked
+2024-12-30 15:12:31.993 [main] INFO  t.TC002_LoginTest - Selected Login Option
+2024-12-30 15:12:32.407 [main] INFO  t.TC002_LoginTest - Email & Password entered
+2024-12-30 15:12:34.513 [main] INFO  t.TC002_LoginTest - Login CTA Clicked
+2024-12-30 15:12:34.606 [main] INFO  t.TC002_LoginTest - *** Finished TC002_LoginTest ***

@@ -1,0 +1,9 @@
+2024-12-17 17:12:27.854 [main] DEBUG o.t.TestNG - suiteXmlPath: "C:\Workspace\Java & Selenium CrashCourse\openCartV121\MasterCase.xml"
+2024-12-17 17:12:28.252 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Workspace\Java & Selenium CrashCourse\openCartV121\MasterCase.xml
+
+2024-12-17 17:12:46.134 [TestNG-tests-1] INFO  t.TC002_LoginTest - *** Started TC002_LoginTest ***
+2024-12-17 17:12:46.416 [TestNG-tests-1] INFO  t.TC002_LoginTest - My Account Clicked
+2024-12-17 17:12:47.237 [TestNG-tests-1] INFO  t.TC002_LoginTest - Selected Login Option
+2024-12-17 17:12:47.631 [TestNG-tests-1] INFO  t.TC002_LoginTest - Email & Password entered
+2024-12-17 17:12:48.657 [TestNG-tests-1] INFO  t.TC002_LoginTest - Login CTA Clicked

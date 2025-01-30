@@ -1,0 +1,14 @@
+2024-12-30 12:12:06.655 [main] INFO  t.TC001_AccountRegistrationComplete - ***TC001_AccountRegistrationComplete Started***
+2024-12-30 12:12:11.198 [main] INFO  t.TC001_AccountRegistrationComplete - My Account link clicked
+2024-12-30 12:12:13.387 [main] INFO  t.TC001_AccountRegistrationComplete - Registration link clicked
+2024-12-30 12:12:13.393 [main] INFO  t.TC001_AccountRegistrationComplete - Started to enter customer details
+2024-12-30 12:12:15.588 [main] INFO  t.TC001_AccountRegistrationComplete - customer details completed
+2024-12-30 12:12:15.699 [main] ERROR t.TC001_AccountRegistrationComplete - Testcase failed
+2024-12-30 12:12:15.700 [main] DEBUG t.TC001_AccountRegistrationComplete - debug logs
+2024-12-30 12:12:15.700 [main] INFO  t.TC001_AccountRegistrationComplete - Confirmation message verified
+2024-12-30 12:12:28.840 [main] INFO  t.TC002_LoginTest - *** Started TC002_LoginTest ***
+2024-12-30 12:12:29.033 [main] INFO  t.TC002_LoginTest - My Account Clicked
+2024-12-30 12:12:29.569 [main] INFO  t.TC002_LoginTest - Selected Login Option
+2024-12-30 12:12:29.975 [main] INFO  t.TC002_LoginTest - Email & Password entered
+2024-12-30 12:12:31.080 [main] INFO  t.TC002_LoginTest - Login CTA Clicked
+2024-12-30 12:12:31.154 [main] INFO  t.TC002_LoginTest - *** Finished TC002_LoginTest ***

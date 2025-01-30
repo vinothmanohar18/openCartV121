@@ -1,0 +1,69 @@
+2024-12-20 14:12:23.382 [main] DEBUG o.t.TestNG - suiteXmlPath: "C:\Users\NMSLAP~1\AppData\Local\Temp\testng-eclipse-534839063\testng-customsuite.xml"
+2024-12-20 14:12:23.821 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-12-20 14:12:23.824 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-12-20 14:12:23.826 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-20 14:12:23.827 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-20 14:12:23.827 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-20 14:12:23.828 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-20 14:12:23.829 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-20 14:12:23.829 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-20 14:12:23.839 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2024-12-20 14:12:23.856 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+2024-12-20 14:12:23.858 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-20 14:12:23.859 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-12-20 14:12:23.860 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-20 14:12:23.860 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-20 14:12:23.861 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-20 14:12:23.861 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-20 14:12:23.864 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-20 14:12:23.865 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-20 14:12:23.866 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-20 14:12:23.866 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-20 14:12:23.872 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-20 14:12:23.872 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-20 14:12:23.872 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-20 14:12:23.872 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-20 14:12:23.874 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-12-20 14:12:23.875 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-12-20 14:12:23.877 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-20 14:12:23.878 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-20 14:12:23.879 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-20 14:12:23.879 [main] INFO  o.t.i.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-20 14:12:23.896 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Users\NMSLAP311\AppData\Local\Temp\testng-eclipse-534839063\testng-customsuite.xml
+
+2024-12-20 14:12:23.927 [main] INFO  o.t.i.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2024-12-20 14:12:23.989 [main] ERROR o.t.i.Utils - [Error] org.testng.TestNGException: 
+Method public void testcases.TC003_LogintestDDT.verify_loginDDT(java.lang.String,java.lang.String,java.lang.String) requires a @DataProvider named : Logindata in class org.testng.annotations.DataProvider
+	at org.testng.internal.Parameters.findDataProvider(Parameters.java:532)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:769)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:946)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+2024-12-20 14:12:24.395 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@355e34c7: 273 ms
+2024-12-20 14:12:24.456 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@29876704: 60 ms
+2024-12-20 14:12:24.482 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@388ffbc2: 25 ms
+2024-12-20 14:12:24.501 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@56db847e: 19 ms
+2024-12-20 14:12:24.532 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7e094740: 30 ms
+2024-12-20 14:12:24.533 [main] INFO  o.t.i.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7a11c4c7: 0 ms

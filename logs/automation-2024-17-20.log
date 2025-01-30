@@ -1,0 +1,10 @@
+2024-12-20 15:12:02.855 [main] DEBUG o.t.TestNG - suiteXmlPath: "C:\Workspace\Java & Selenium CrashCourse\openCartV121\MasterCase.xml"
+2024-12-20 15:12:03.334 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Workspace\Java & Selenium CrashCourse\openCartV121\MasterCase.xml
+
+2024-12-20 15:12:14.346 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 15:12:14.350 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-20 15:12:14.353 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-20 15:12:15.108 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 15:12:15.109 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-20 15:12:15.111 [TestNG-tests-1] DEBUG o.a.p.o.o.PackageRelationshipCollection - Parsing relationship: /_rels/.rels

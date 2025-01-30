@@ -1,0 +1,6 @@
+2025-01-07 17:01:09.611 [TestNG-tests-1] INFO  t.TC002_LoginTest - *** Started TC002_LoginTest ***
+2025-01-07 17:01:09.726 [TestNG-tests-1] INFO  t.TC002_LoginTest - My Account Clicked
+2025-01-07 17:01:10.638 [TestNG-tests-1] INFO  t.TC002_LoginTest - Selected Login Option
+2025-01-07 17:01:11.171 [TestNG-tests-1] INFO  t.TC002_LoginTest - Email & Password entered
+2025-01-07 17:01:13.108 [TestNG-tests-1] INFO  t.TC002_LoginTest - Login CTA Clicked
+2025-01-07 17:01:13.208 [TestNG-tests-1] INFO  t.TC002_LoginTest - *** Finished TC002_LoginTest ***

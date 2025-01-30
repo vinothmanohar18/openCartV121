@@ -1,0 +1,14 @@
+2024-12-30 12:12:01.384 [main] INFO  t.TC001_AccountRegistrationComplete - customer details completed
+2024-12-30 12:12:01.481 [main] ERROR t.TC001_AccountRegistrationComplete - Testcase failed
+2024-12-30 12:12:01.482 [main] DEBUG t.TC001_AccountRegistrationComplete - debug logs
+2024-12-30 12:12:01.482 [main] INFO  t.TC001_AccountRegistrationComplete - Confirmation message verified
+2024-12-30 12:12:10.917 [main] INFO  t.TC002_LoginTest - *** Started TC002_LoginTest ***
+2024-12-30 12:12:11.093 [main] INFO  t.TC002_LoginTest - My Account Clicked
+2024-12-30 12:12:12.052 [main] INFO  t.TC002_LoginTest - Selected Login Option
+2024-12-30 12:12:12.464 [main] INFO  t.TC002_LoginTest - Email & Password entered
+2024-12-30 12:12:13.883 [main] INFO  t.TC002_LoginTest - Login CTA Clicked
+2024-12-30 12:12:13.963 [main] INFO  t.TC002_LoginTest - *** Finished TC002_LoginTest ***
+2024-12-30 12:12:51.975 [main] DEBUG o.t.TestNG - suiteXmlPath: "C:\Workspace\Java & Selenium CrashCourse\openCartV121\Grouping.xml"
+2024-12-30 12:12:52.365 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Workspace\Java & Selenium CrashCourse\openCartV121\Grouping.xml
+
